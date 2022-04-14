@@ -4,7 +4,7 @@ This repository contains my approach to solve the PMG Graduate Leadership Progra
 
 ## Setup:
 
-<code>pip3 install dask</code>
+<code>pip3 install dask</code><br>
 <code>pip3 install pandas</code>
 
 ## Scalable Apprach (Using Dask):
@@ -19,7 +19,7 @@ This repository contains my approach to solve the PMG Graduate Leadership Progra
   
 It was a really fun and learning challenge. Thank you for the opportunity and I look forward to walkthrough my code during the final interview.
 
-Name: Kartikey Sharma
+Name: Kartikey Sharma<br>
 email: kartikeys162@gmail.com
 
 
